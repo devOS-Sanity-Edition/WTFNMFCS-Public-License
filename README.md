@@ -1,0 +1,3 @@
+# WTFNMFCS Public License
+
+Home of the DO WHAT THE FUCK YOU WANT TO BUT IT'S NOT MY FAULT AND YOU CAN'T SELL IT Public License.
